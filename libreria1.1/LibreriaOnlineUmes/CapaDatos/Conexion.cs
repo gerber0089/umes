@@ -14,6 +14,6 @@ namespace CapaDatos
             cn.ConnectionString = "Data Source=USUARIO;Initial Catalog=libreria;User ID=sa;Password=angel555.";
             return cn;
         
-        }
+        }//PRUEBA DE CAMBIOS PARA VERIFICACION DE VERSIONES EN HISTORIAL
     }
 }
