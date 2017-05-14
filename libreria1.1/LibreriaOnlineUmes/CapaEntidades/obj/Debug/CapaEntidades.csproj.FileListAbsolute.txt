@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
