@@ -1,0 +1,42 @@
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\libreria\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb

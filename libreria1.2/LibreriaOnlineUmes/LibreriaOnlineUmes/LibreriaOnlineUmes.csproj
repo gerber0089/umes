@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{31D06B3B-AEB6-4757-9D04-CB4A273FB2A0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibreriaOnlineUmes</RootNamespace>
+    <AssemblyName>LibreriaOnlineUmes</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\style.css" />
+    <Content Include="css\stylecrearusuario.css" />
+    <Content Include="css\styleLogin.css" />
+    <Content Include="imagenesproducto\Calculadoras\CALCULADORA CIENTIFICA FX82 CASIO.gif" />
+    <Content Include="imagenesproducto\Calculadoras\CALCULADORA DE BOLSILLO %28 BP %29.gif" />
+    <Content Include="imagenesproducto\Calculadoras\CALCULADORA GRAF. TI89 TITANIU.gif" />
+    <Content Include="imagenesproducto\Calculadoras\CALCULADORA GRAFICA VOYAGE 200.gif" />
+    <Content Include="imagenesproducto\Calculadoras\SUMADORA CANON P23-DHV.gif" />
+    <Content Include="imagenesproducto\Calculadoras\SUMADORA HR-8BHR-8RC CASIO.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYON MAD.BOLIK 24 LARGO.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYONES CRAYOLA CAJA CON 48 COLORES SURTIDOS.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYONES DE COLORES NORIS CAJA CON 12 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYONES PARA PIZARRON BLANCO B8.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYONES PINTACARAS BLISTER.gif" />
+    <Content Include="imagenesproducto\Crayones\CRAYONES SURTIDOS ESTUCHE CON 28 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Crayones\fondo.png" />
+    <Content Include="imagenesproducto\Cuadernos\BLOCK MARQUILLA DE 20 HJS..gif" />
+    <Content Include="imagenesproducto\Cuadernos\CUAD DESIGN CARTA 150H RAYA.gif" />
+    <Content Include="imagenesproducto\Cuadernos\CUAD ETHNIC OFICIO 150HRY6.gif" />
+    <Content Include="imagenesproducto\Cuadernos\CUAD GOLDSTYLE CARTA 120H RY8.gif" />
+    <Content Include="imagenesproducto\Cuadernos\CUAD METALIC CARTA RY 8.gif" />
+    <Content Include="imagenesproducto\Cuadernos\LIBRETA DE APUNTES SOLIDA 100H.gif" />
+    <Content Include="imagenesproducto\Grapas\ENGRAP MINI GRAPA.gif" />
+    <Content Include="imagenesproducto\Grapas\GRAPA BOSTITCH HEAVY DUTY TRA-709 CAJA CON 1000 PZ.gif" />
+    <Content Include="imagenesproducto\Grapas\GRAPA ESTANDAR CAJA 5000 PIEZAS SWINGLINE.gif" />
+    <Content Include="imagenesproducto\Grapas\GRAPA FIFA #10 CAJA CON 1000 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Grapas\GRAPA H DUTY SF-13 1000PZ 25-60H.gif" />
+    <Content Include="imagenesproducto\Grapas\GRAPA STANLEY BOSTITCH SB35  CAJA CON 1000.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLER BALL PAQUETE CON 6 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLER BALL PAQUETE DE 6 SURTIDO OFFICE DEPOT.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLERBALL J-5 NEGRO 2 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLERBALL J-5 ROJO 2 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLERBALL SARASA TINTA DE GEL COLOR NEGRO.gif" />
+    <Content Include="imagenesproducto\Lapiceros\ROLLERBALL SARASA TINTA GEL COLOR AZUL.gif" />
+    <Content Include="imagenesproducto\Lapices\LAPICES ESCOLARES NORICA PAQUETE 8 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Lapices\LAPIZ DE GRAFITO BIC BLISTER 4 PIEZAS.gif" />
+    <Content Include="imagenesproducto\Lapices\LAPIZ DE GRAFITO SIN MADERA.gif" />
+    <Content Include="imagenesproducto\Lapices\LAPIZ GRAFITO CAJA C12 BLACK PEPS.gif" />
+    <Content Include="imagenesproducto\Lapices\LAPIZ HB BLACK WARRIOR DZç.gif" />
+    <Content Include="imagenesproducto\Lapices\LÁPICES DE GRAFITO N° 2 OFFICE DEPO CAJA CON 12.gif" />
+    <Content Include="imagenesproducto\Libros\Carazamba-Libro.jpg" />
+    <Content Include="imagenesproducto\Libros\Libro Barbuchin.jpg" />
+    <Content Include="imagenesproducto\Libros\Libro Victoria.jpg" />
+    <Content Include="imagenesproducto\Libros\NACHO LIBRO INICIAL DE INGLES.jpg" />
+    <Content Include="imagenesproducto\Libros\NACHO MATEMÁTICAS.jpg" />
+    <Content Include="imagenesproducto\Libros\Nacho.jpg" />
+    <Content Include="imagenesproducto\Mochilas\fondo.png" />
+    <Content Include="imagenesproducto\Mochilas\MOCHILA DEPORTIVA P LAPTOP.gif" />
+    <Content Include="imagenesproducto\Mochilas\MOCHILA LAP 15 LINEN.gif" />
+    <Content Include="imagenesproducto\Mochilas\MOCHILA P LAPTOP DE 16 NEGRO.gif" />
+    <Content Include="imagenesproducto\Mochilas\MOCHILA PARA LAPTOP NEGRO CON NARANJA.gif" />
+    <Content Include="imagenesproducto\Mochilas\MOCHILA TARGUS CVR600.gif" />
+    <Content Include="imagenesproducto\Mochilas\TROLLEY BAG 15 2 COMPARTIMIENTOS NEGRO.gif" />
+    <Content Include="imagenesproducto\Papel\PAPEL BOND XEROX OFICIO XBRA97 RESMA 500 HOJAS.gif" />
+    <Content Include="imagenesproducto\Papel\PAPEL CARBON CARTA.gif" />
+    <Content Include="imagenesproducto\Papel\PAPEL CHAMEX CARTA RESMA 500 HOJAS 75 GRAMOS.gif" />
+    <Content Include="imagenesproducto\Papel\papel china.png" />
+    <Content Include="imagenesproducto\Papel\papel crepe.png" />
+    <Content Include="imagenesproducto\Papel\PAPEL FOTOGRAFICO POLAROID 2X3 PULGADAS.gif" />
+    <Content Include="imagenesproducto\Plastico\FORRO AUTOADHERIBLE 1.5 M AMARILLO.gif" />
+    <Content Include="imagenesproducto\Plastico\FORRO AUTOADHERIBLE 1.5 M BLANCO.gif" />
+    <Content Include="imagenesproducto\Plastico\FORRO AUTOADHERIBLE 1.5 M ROJO.gif" />
+    <Content Include="imagenesproducto\Plastico\FORRO AUTOADHERIBLE 1.5 M VERDE.gif" />
+    <Content Include="imagenesproducto\Plastico\FORRO AUTOADHERIBLE 2 M TRANSPARENTE.gif" />
+    <Content Include="imagenesproducto\Plastico\PlasticoRolloNoAdhsivo.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\BORRADOR DE MIJAGON STRIKE BLISTER CON 2 PIEZAS.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\BORRADOR RASOPLAST B30 BLISTER 2 PIEZAS.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\BORRADOR STICK UNIVERSAL BLISTER 1 PIEZA MAPED.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\SACAPUNTAS CLEAN 1 ORIFICIO.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\SACAPUNTAS ELECTRICO KALQUE.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\SACAPUNTAS MANUAL KW-TRIO.gif" />
+    <Content Include="imagenesproducto\sacapuntasborradores\Sacapuntasyborrador.png" />
+    <Content Include="imagenesproducto\temperas\PINTURA TEMPERA EN 18 BOTES.gif" />
+    <Content Include="imagenesproducto\temperas\PINTURAS TEMPERA 59ML.gif" />
+    <Content Include="imagenesproducto\temperas\TEMPERA 25 ML PELIKAN.gif" />
+    <Content Include="imagenesproducto\temperas\TEMPERA ARTICOLOR 12 COLORES.gif" />
+    <Content Include="imagenesproducto\temperas\TEMPERA ARTICOLOR 6 COLORES.gif" />
+    <Content Include="imagenesproducto\temperas\TEMPERAS CARIBE 6 UNIDADES.gif" />
+    <Content Include="imagenesproducto\temperas\temperas.png" />
+    <Content Include="imagenes\2110_blanco_med.png" />
+    <Content Include="imagenes\8fa898dfa5442e1370df3cb193ca4db8.png" />
+    <Content Include="imagenes\calculadora.jpg" />
+    <Content Include="imagenes\f197949-88629.png" />
+    <Content Include="imagenes\grapas.jpg" />
+    <Content Include="imagenes\lapiz.png" />
+    <Content Include="imagenes\libro.jpg" />
+    <Content Include="imagenes\llave.png" />
+    <Content Include="imagenes\logo-meso.png" />
+    <Content Include="imagenes\papel.png" />
+    <Content Include="imagenes\plastico.jpg" />
+    <Content Include="imagenes\User.png" />
+    <Content Include="imagenes\zacapunta.png" />
+    <Content Include="libreria\a2d1m5i9n7i6s7t0r7a9do4r.aspx" />
+    <Content Include="libreria\activarusuario.aspx" />
+    <Content Include="libreria\contactenos.aspx" />
+    <Content Include="libreria\crearusuario.aspx" />
+    <Content Include="libreria\frmLogin.aspx" />
+    <Content Include="libreria\informacion.aspx" />
+    <Content Include="libreria\Lapiceros123.aspx" />
+    <Content Include="libreria\paginapresentacion.aspx" />
+    <Content Include="libreria\producto.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.Master.cs">
+      <DependentUpon>Administrador.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrador.Master.designer.cs">
+      <DependentUpon>Administrador.Master</DependentUpon>
+    </Compile>
+    <Compile Include="LibreriaMaster.Master.cs">
+      <DependentUpon>LibreriaMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LibreriaMaster.Master.designer.cs">
+      <DependentUpon>LibreriaMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\a2d1m5i9n7i6s7t0r7a9do4r.aspx.cs">
+      <DependentUpon>a2d1m5i9n7i6s7t0r7a9do4r.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\a2d1m5i9n7i6s7t0r7a9do4r.aspx.designer.cs">
+      <DependentUpon>a2d1m5i9n7i6s7t0r7a9do4r.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\activarusuario.aspx.cs">
+      <DependentUpon>activarusuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\activarusuario.aspx.designer.cs">
+      <DependentUpon>activarusuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\contactenos.aspx.cs">
+      <DependentUpon>contactenos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\contactenos.aspx.designer.cs">
+      <DependentUpon>contactenos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\crearusuario.aspx.cs">
+      <DependentUpon>crearusuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\crearusuario.aspx.designer.cs">
+      <DependentUpon>crearusuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\informacion.aspx.cs">
+      <DependentUpon>informacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\informacion.aspx.designer.cs">
+      <DependentUpon>informacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\Lapiceros123.aspx.cs">
+      <DependentUpon>Lapiceros123.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\Lapiceros123.aspx.designer.cs">
+      <DependentUpon>Lapiceros123.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\paginapresentacion.aspx.cs">
+      <DependentUpon>paginapresentacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\paginapresentacion.aspx.designer.cs">
+      <DependentUpon>paginapresentacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\producto.aspx.cs">
+      <DependentUpon>producto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\producto.aspx.designer.cs">
+      <DependentUpon>producto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuarios.Master.cs">
+      <DependentUpon>Usuarios.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Master.designer.cs">
+      <DependentUpon>Usuarios.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LibreriaMaster.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="administrador\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{A575EE6F-6090-430E-8942-AEA1B8F64452}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{14397D96-5E49-4B72-94C0-9ACB3F20DEA3}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{A06636FC-2F50-4D93-87E1-59E1FD6DB4C2}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Usuarios.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Administrador.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3105</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
