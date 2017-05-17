@@ -10,6 +10,6 @@
 namespace LibreriaOnlineUmes.libreria {
     
     
-    public partial class producto {
+    public partial class CrayonesMarca3412 {
     }
 }
