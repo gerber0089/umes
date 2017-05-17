@@ -42,8 +42,11 @@
   <ItemGroup>
     <Compile Include="entactivacionusuario.cs" />
     <Compile Include="entcodigodelproducto.cs" />
+    <Compile Include="entcrearlote.cs" />
     <Compile Include="entcrearnombreproducto.cs" />
     <Compile Include="entcrearnuevoproducto.cs" />
+    <Compile Include="entcrearproveedor.cs" />
+    <Compile Include="entingresosaldolote.cs" />
     <Compile Include="entregistrousuario.cs" />
     <Compile Include="entrol.cs" />
     <Compile Include="entusuario.cs" />

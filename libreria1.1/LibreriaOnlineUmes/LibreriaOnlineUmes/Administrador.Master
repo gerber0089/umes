@@ -36,7 +36,7 @@
                     <Items>
                         <asp:MenuItem NavigateUrl="/libreria/activarusuario.aspx" Text="ACTIVAR USUARIO"/>
                         <asp:MenuItem NavigateUrl="/libreria/dardebaja.aspx" Text="INACTIVAR USUARIO"/>
-                        <asp:MenuItem NavigateUrl="/libreria/crearproducto.aspx" Text="CREARPRODUCTOS"/>
+                        <asp:MenuItem NavigateUrl="/libreria/Site1.aspx" Text="CREARPRODUCTOS"/>
                     </Items>
                 </asp:Menu>
             </div>
