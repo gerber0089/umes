@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-<link href="../css/asignarroles.css" rel="stylesheet" type="text/css" />
+    <link href="../css/asignarroles.css" rel="stylesheet" type="text/css" />
 
 <div id="envoltura">
         <div id="contenedor">
@@ -34,14 +34,15 @@
 
                                     <asp:SqlDataSource ID="SqlDataSource1" runat="server" 
                                         ConnectionString="<%$ ConnectionStrings:libreriaConnectionString %>" 
-                                        SelectCommand="SELECT idUsuario, Nombre FROM Usuario WHERE (estado = 0) ">
+                                        
+                                        SelectCommand="SELECT idUsuario, Nombre FROM Usuario WHERE (estado = 0) OR Rol=0">
                                     </asp:SqlDataSource>
                                 </td>
    
                   </tr>
                   <tr>
                   
-                            <td colspan="2" align="left" class="style2">ASIGNAR ESTADO:</td>
+                            <td colspan="2" align="left" class="style2">ASIGNAR ROL:</td>
                   
                   </tr>
                   <tr>
@@ -59,7 +60,7 @@
   
                   <tr>
                   
-                            <td colspan="2" align="left" class="style2">ASIGNAR ROL:</td>
+                            <td colspan="2" align="left" class="style2">ASIGNAR ESTADO:</td>
                   
                   </tr>  
                   <tr>
@@ -82,6 +83,8 @@
          </table>
                                 <asp:Button ID="btnguardar" runat="server" onclick="btnguardar_Click" Text="MODIFICAR" 
                                      Width="117px" />
-  
+   </div>
 
+  <br /><p style='clear:both;text-align:center'><a>UNIVERSIDA MESOAMERICANA</a></p>
+ 
 </asp:Content>

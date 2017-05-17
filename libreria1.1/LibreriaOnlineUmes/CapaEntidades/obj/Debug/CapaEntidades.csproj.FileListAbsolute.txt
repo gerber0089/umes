@@ -26,3 +26,13 @@ C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\Libreri
 C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
 C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb

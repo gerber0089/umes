@@ -21,7 +21,7 @@ namespace LibreriaOnlineUmes.libreria
               if (txtusuario.Text != "" && txtapellido.Text != "" && txtcorreo.Text != "" && txtpass.Text != "")
             {
               
-                entverificarcorreo  obj1 = new entverificarcorreo();
+                /*entverificarcorreo  obj1 = new entverificarcorreo();
 
                 if(obj1 != null){
 
@@ -30,7 +30,7 @@ namespace LibreriaOnlineUmes.libreria
                         lblerror.Visible = true;
                     }
                     else
-                    {
+                    {*/
                         entregistrousuario obj = new entregistrousuario();
                         obj.Nombre = txtusuario.Text;
                         obj.Apellido = txtapellido.Text;
@@ -54,7 +54,7 @@ namespace LibreriaOnlineUmes.libreria
 
                         }
 
-                    }
+                    /*}*/
                
             }
             else

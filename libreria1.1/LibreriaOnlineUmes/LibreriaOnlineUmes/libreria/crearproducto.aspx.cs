@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using CapaNegocio;
+using CapaEntidades;
 
 namespace LibreriaOnlineUmes.libreria
 {
@@ -13,5 +15,13 @@ namespace LibreriaOnlineUmes.libreria
         {
 
         }
-    }
+
+        
+
+        protected void TextBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+       }
+    
 }
