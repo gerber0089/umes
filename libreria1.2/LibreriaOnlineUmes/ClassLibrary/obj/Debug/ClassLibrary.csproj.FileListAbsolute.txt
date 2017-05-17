@@ -1,4 +1,0 @@
-G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
-G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
-G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
-G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb

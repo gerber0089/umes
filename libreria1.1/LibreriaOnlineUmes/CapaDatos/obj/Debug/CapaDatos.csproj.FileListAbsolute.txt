@@ -19,3 +19,10 @@ E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\Cap
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -31,3 +31,15 @@ E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.csprojResolveAssemblyReference.cache
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.dll
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\LibreriaOnlineUmes.dll.config
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\LibreriaOnlineUmes.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\LibreriaOnlineUmes.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaDatos.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaEntidades.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaNegocio.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaDatos.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaEntidades.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaNegocio.pdb
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.csprojResolveAssemblyReference.cache
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.dll
+C:\Users\satelite\Documents\9no administracion de sistemas\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.pdb
