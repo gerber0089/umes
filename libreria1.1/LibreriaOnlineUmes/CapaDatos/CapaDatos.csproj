@@ -41,9 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="daoactivacionusuario.cs" />
     <Compile Include="daoregistrousuario.cs" />
     <Compile Include="daorol.cs" />
     <Compile Include="daousuario.cs" />
+    <Compile Include="daoverificarcorreo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

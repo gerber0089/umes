@@ -40,3 +40,17 @@ C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin
 C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb

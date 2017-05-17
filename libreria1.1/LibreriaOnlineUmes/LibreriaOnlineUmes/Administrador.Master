@@ -34,9 +34,9 @@
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
-                        <asp:MenuItem NavigateUrl="#" Text="ACTIVAR USUARIO"/>
-                        <asp:MenuItem NavigateUrl="#" Text="ASIGNAR ROL A USURIO"/>
-                        <asp:MenuItem NavigateUrl="#" Text="CREARPRODUCTOS"/>
+                        <asp:MenuItem NavigateUrl="/libreria/activarusuario.aspx" Text="ACTIVAR USUARIO"/>
+                        <asp:MenuItem NavigateUrl="/libreria/asignarolasuario.aspx" Text="ASIGNAR ROL A USURIO"/>
+                        <asp:MenuItem NavigateUrl="/libreria/crearproducto.aspx" Text="CREARPRODUCTOS"/>
                     </Items>
                 </asp:Menu>
             </div>

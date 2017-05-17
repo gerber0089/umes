@@ -51,6 +51,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\asignarroles.css" />
     <Content Include="css\style.css" />
     <Content Include="css\stylecrearusuario.css" />
     <Content Include="css\styleLogin.css" />
@@ -132,6 +133,7 @@
     <Content Include="imagenesproducto\temperas\temperas.png" />
     <Content Include="imagenes\2110_blanco_med.png" />
     <Content Include="imagenes\8fa898dfa5442e1370df3cb193ca4db8.png" />
+    <Content Include="imagenes\admin.png" />
     <Content Include="imagenes\calculadora.jpg" />
     <Content Include="imagenes\f197949-88629.png" />
     <Content Include="imagenes\grapas.jpg" />
@@ -145,7 +147,9 @@
     <Content Include="imagenes\zacapunta.png" />
     <Content Include="libreria\a2d1m5i9n7i6s7t0r7a9do4r.aspx" />
     <Content Include="libreria\activarusuario.aspx" />
+    <Content Include="libreria\asignarolasuario.aspx" />
     <Content Include="libreria\contactenos.aspx" />
+    <Content Include="libreria\crearproducto.aspx" />
     <Content Include="libreria\crearusuario.aspx" />
     <Content Include="libreria\frmLogin.aspx" />
     <Content Include="libreria\informacion.aspx" />
@@ -189,12 +193,26 @@
     <Compile Include="libreria\activarusuario.aspx.designer.cs">
       <DependentUpon>activarusuario.aspx</DependentUpon>
     </Compile>
+    <Compile Include="libreria\asignarolasuario.aspx.cs">
+      <DependentUpon>asignarolasuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\asignarolasuario.aspx.designer.cs">
+      <DependentUpon>asignarolasuario.aspx</DependentUpon>
+    </Compile>
     <Compile Include="libreria\contactenos.aspx.cs">
       <DependentUpon>contactenos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="libreria\contactenos.aspx.designer.cs">
       <DependentUpon>contactenos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="libreria\crearproducto.aspx.cs">
+      <DependentUpon>crearproducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="libreria\crearproducto.aspx.designer.cs">
+      <DependentUpon>crearproducto.aspx</DependentUpon>
     </Compile>
     <Compile Include="libreria\crearusuario.aspx.cs">
       <DependentUpon>crearusuario.aspx</DependentUpon>
@@ -284,7 +302,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>3105</DevelopmentServerPort>
+          <DevelopmentServerPort>3398</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

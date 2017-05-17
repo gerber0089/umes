@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="negactivarusuario.cs" />
     <Compile Include="negregistrousuario.cs" />
     <Compile Include="negrol.cs" />
     <Compile Include="negusuario.cs" />
+    <Compile Include="negverificarcorreo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -2,3 +2,7 @@ G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
