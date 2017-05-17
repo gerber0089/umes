@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>KARDEX</title>
+    <title>LIBRERIA UMES</title>
     <meta charset="utf-8">
     <link type="text/css" href="../css/styleLogin.css" rel="stylesheet" />
 
@@ -59,7 +59,14 @@
                                 
                                     </td> 
                                
-                             </tr>                
+                             </tr>    
+                             
+                             <tr>
+                                    <td class="style2">      
+                               
+                                        &nbsp;</td> 
+                               
+                             </tr>                            
                             <tr>
                                 <td colspan="2" align="center" class="style2"><asp:Label ID="lblerror" runat="server" Text="" ForeColor="Red"  Visible="false"></asp:Label></td>
                             </tr>

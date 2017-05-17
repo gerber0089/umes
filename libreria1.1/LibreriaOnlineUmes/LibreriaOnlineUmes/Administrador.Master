@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Usuarios.master.cs" Inherits="LibreriaOnlineUmes.Usuarios" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Administrador.master.cs" Inherits="LibreriaOnlineUmes.Administrador" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -20,8 +20,9 @@
     <form id="Form1" runat="server">
     <div class="page">
         <div class="header">
-            <img src="/imagenes/logo-meso.png" style="height: 121px; width: 463px" /><div class="title">
-               
+            <img src="/imagenes/8fa898dfa5442e1370df3cb193ca4db8.png" style="height: 121px; width: 463px" />
+            <div class="title">
+               <h1>ADMINISTRADOR</h1>
             </div>
             <div class="loginDisplay">
                 &nbsp;<asp:Label ID="txtnombre" runat="server" Text=""></asp:Label>
@@ -33,9 +34,9 @@
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
-                        <asp:MenuItem NavigateUrl="libreria/contactenos.aspx" Text="MENU PRODUCTOS"/>
-                        <asp:MenuItem NavigateUrl="libreria/informacion.aspx" Text="VER CARRITO"/>
-                        <asp:MenuItem NavigateUrl="libreria/paginapresentacion.aspx" Text="CAMBIO DE PASSWORD"/>
+                        <asp:MenuItem NavigateUrl="#" Text="ACTIVAR USUARIO"/>
+                        <asp:MenuItem NavigateUrl="#" Text="ASIGNAR ROL A USURIO"/>
+                        <asp:MenuItem NavigateUrl="#" Text="CREARPRODUCTOS"/>
                     </Items>
                 </asp:Menu>
             </div>

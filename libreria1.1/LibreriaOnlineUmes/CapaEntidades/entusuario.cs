@@ -11,7 +11,8 @@ namespace CapaEntidades
         public String Nombre { get; set; }
         public String Apellido { get; set; }
         public String Usuario { get; set; }
-        public String Password { get; set; }	   		
-
+        public String Password { get; set; }
+        public int estado { get; set; }
+        public int Rol { get; set; }
     }
 }

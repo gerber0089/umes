@@ -10,6 +10,6 @@
 namespace LibreriaOnlineUmes.libreria {
     
     
-    public partial class producto {
+    public partial class a2d1m5i9n7i6s7t0r7a9do4r {
     }
 }

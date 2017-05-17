@@ -49,6 +49,7 @@
                             <tr>
                                     <td colspan="2" align="left" class="style1">PASSWORD:</td>
                             </tr>
+                            </br>
                             <tr>
                                     <td class="style2">      
                                
@@ -56,7 +57,24 @@
                                 
                                     </td> 
                                
-                             </tr>                
+                             </tr>  
+                             <tr>
+                                    <td class="style2">      
+                               
+                                        <asp:TextBox ID="txtestado" runat="server" Width="359px" Visible="False"></asp:TextBox>   
+                                
+                                    </td> 
+                               
+                             </tr>  
+                             <tr>
+                                    <td class="style2">      
+                               
+                                        <asp:TextBox ID="txtrol" runat="server" Width="359px" Visible="False"></asp:TextBox>   
+                                
+                                    </td> 
+                               
+                             </tr>  
+                                           
                             <tr>
                                 <td colspan="2" align="center" class="style2"><asp:Label ID="lblerror" runat="server" Text="" ForeColor="Red"  Visible="false"></asp:Label></td>
                             </tr>

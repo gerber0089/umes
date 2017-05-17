@@ -49,6 +49,24 @@ namespace LibreriaOnlineUmes.libreria {
         protected global::System.Web.UI.WebControls.TextBox txtpass;
         
         /// <summary>
+        /// txtestado control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtestado;
+        
+        /// <summary>
+        /// txtrol control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtrol;
+        
+        /// <summary>
         /// lblerror control.
         /// </summary>
         /// <remarks>

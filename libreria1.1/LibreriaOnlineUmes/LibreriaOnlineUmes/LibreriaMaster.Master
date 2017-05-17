@@ -21,11 +21,8 @@
     <form id="Form1" runat="server">
     <div class="page">
         <div class="header">
-        
-            <div class="title">
-                <h1>
-                    LIBRERIA ONLINE UMES
-                </h1>
+           <img src="/imagenes/logo-meso.png" style="height: 121px; width: 463px" /><div class="title">
+              
             </div>
             <div class="loginDisplay">
                 <a  href="frmLogin.aspx"><h4>Iniciar Session</h4></a>

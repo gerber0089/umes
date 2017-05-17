@@ -13,6 +13,9 @@ namespace LibreriaOnlineUmes.libreria
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+           
+            
+
 
         }
 
@@ -24,10 +27,61 @@ namespace LibreriaOnlineUmes.libreria
 
                 if (obj != null)
                 {
+                        if (obj.estado == 0)
+                        {
+                            lblerror.Text = "Usuario No Activo";
+                            lblerror.Visible = true;                
+                    
+                        } else {
 
-                    Session["usuario"] = obj;
-                    Response.Redirect("producto.aspx");
-                   
+                            if (obj.estado == 1) 
+                            {
+                                if (obj.Rol == 0) 
+                                {
+                                    lblerror.Text = "USUARIO NO TIENE ASIGDO ROL";
+                                    lblerror.Visible = true;
+                                
+                                } else {
+
+                                    if (obj.Rol == 1) 
+                                    {
+                                        Session["usuario"] = obj;
+                                        Response.Redirect("a2d1m5i9n7i6s7t0r7a9do4r.aspx");
+
+                                    
+                                    } else {
+
+                                        if (obj.Rol == 2) 
+                                        {
+
+                                            Session["usuario"] = obj;
+                                            Response.Redirect("producto.aspx"); 
+
+                                        } else {
+
+                                            lblerror.Text = "PONERSE EN CONTACTO CON EL ADMINISTRADOR";
+                                            lblerror.Visible = true;
+                                                            
+                                        
+                                        }
+                                    
+                                    
+                                    }   
+                                
+                                } 
+  
+
+                            } else {
+
+                                lblerror.Text = "Consulte con el Administrador";
+                                lblerror.Visible = true;
+
+                            }
+
+                    
+                        }       
+            
+
 
                 }
                 else

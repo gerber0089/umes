@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="entregistrousuario.cs" />
+    <Compile Include="entrol.cs" />
     <Compile Include="entusuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

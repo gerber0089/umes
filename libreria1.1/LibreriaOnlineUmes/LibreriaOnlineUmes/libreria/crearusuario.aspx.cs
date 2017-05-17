@@ -25,6 +25,10 @@ namespace LibreriaOnlineUmes.libreria
                 obj.Apellido = txtapellido.Text;
                 obj.Usuario = txtcorreo.Text;
                 obj.Password = txtpass.Text;
+                obj.estado = Convert.ToInt32(txtestado.Text = "0");
+                obj.Rol = Convert.ToInt32(txtrol.Text = "0");
+
+
 
                 if (negregistrousuario.ingresousuario(obj) != 0)
                 {

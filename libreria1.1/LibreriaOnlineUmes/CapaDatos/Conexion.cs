@@ -11,9 +11,9 @@ namespace CapaDatos
         public SqlConnection conectar() {
 
             SqlConnection cn = new SqlConnection();
-            cn.ConnectionString = "Data Source=USUARIO;Initial Catalog=libreria;User ID=sa;Password=angel555.";
+            cn.ConnectionString = "Data Source=192.168.10.8;Initial Catalog=libreria;User ID=sa;Password=angel555.";
             return cn;
         
-        }//PRUEBA DE CAMBIOS PARA VERIFICACION DE VERSIONES EN HISTORIAL
+        }
     }
 }
