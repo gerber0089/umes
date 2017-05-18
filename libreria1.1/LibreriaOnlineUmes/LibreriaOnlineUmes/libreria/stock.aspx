@@ -17,6 +17,16 @@
           }
     </style>
 </head>
+<script runat="server">
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        System.Globalization.CultureInfo cultureInfo = new System.Globalization.CultureInfo("es-PA");
+        cultureInfo.DateTimeFormat.ShortDatePattern = "dd/MM/yyyy";
+        System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
+        System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
+    }
+</script>
 <body>
     <form id="Form1" runat="server">
     <div class="page">
