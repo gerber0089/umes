@@ -15,7 +15,7 @@
         <div id="contenedor">
  
             <div id="cabecera" >
-                <img src="../imagenes/logo-meso.png" style="height: 68px; width: 203px">
+                <img src="../imagenes/admin.png" style="height: 68px; width: 203px">
                      
        </div>
  

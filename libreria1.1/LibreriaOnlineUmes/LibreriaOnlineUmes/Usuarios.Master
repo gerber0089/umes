@@ -16,16 +16,6 @@
           }
     </style>
 </head>
-<script runat="server">
-
-    protected void Page_Load(object sender, EventArgs e)
-    {
-        System.Globalization.CultureInfo cultureInfo = new System.Globalization.CultureInfo("es-PA");
-        cultureInfo.DateTimeFormat.ShortDatePattern = "dd/MM/yyyy";
-        System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
-        System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
-    }
-</script>
 <body>
     <form id="Form1" runat="server">
     <div class="page">
@@ -43,9 +33,9 @@
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
-                        <asp:MenuItem NavigateUrl="libreria/producto.aspx" Text="MENU PRODUCTOS"/>
-                        <asp:MenuItem NavigateUrl="../libreria/carrito.aspx" Text="VER CARRITO"/>
-                        
+                        <asp:MenuItem NavigateUrl="libreria/contactenos.aspx" Text="MENU PRODUCTOS"/>
+                        <asp:MenuItem NavigateUrl="libreria/informacion.aspx" Text="VER CARRITO"/>
+                        <asp:MenuItem NavigateUrl="libreria/paginapresentacion.aspx" Text="CAMBIO DE PASSWORD"/>
                     </Items>
                 </asp:Menu>
             </div>
