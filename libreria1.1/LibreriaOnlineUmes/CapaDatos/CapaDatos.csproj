@@ -41,12 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="daocrearproveedor.cs" />
     <Compile Include="daoactivacionusuario.cs" />
     <Compile Include="daocodigodelproducto.cs" />
     <Compile Include="daocrearlote.cs" />
     <Compile Include="daocrearnombreproducto.cs" />
     <Compile Include="daocrearnuevoproducto.cs" />
-    <Compile Include="daocrearproveedor.cs" />
     <Compile Include="daoingresosaldolote.cs" />
     <Compile Include="daoregistrousuario.cs" />
     <Compile Include="daorol.cs" />
