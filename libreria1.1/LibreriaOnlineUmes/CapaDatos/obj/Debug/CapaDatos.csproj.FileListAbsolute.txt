@@ -89,3 +89,10 @@ F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\C
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
