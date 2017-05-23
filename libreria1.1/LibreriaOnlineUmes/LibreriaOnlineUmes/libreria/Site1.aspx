@@ -47,8 +47,8 @@
                  <ul>
                 <li><a href="#">INGRESO LOTES</a>
                     <ul>
-                    <li><a href="javascript:void(0);" onclick="window.open('http://localhost:1341/../libreria/crearlote.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">CREAR LOTE</a></li>
-                    <li><a href="javascript:void(0);" onclick="window.open('http://localhost:1341/../libreria/registrooperacionconproveedor.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">INGRESO LOTE YA CREADO</a></li>     
+                    <li><a href="javascript:void(0);" onclick="window.open('http://localhost:23982/../libreria/crearlote.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">CREAR LOTE</a></li>
+                    <li><a href="javascript:void(0);" onclick="window.open('http://localhost:23982/../libreria/registrooperacionconproveedor.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">INGRESO LOTE YA CREADO</a></li>     
                     
                     
                     
@@ -71,9 +71,9 @@
                 <li><a href="#">PRODUCTO</a>
                 
                 <ul>
-                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:1341/../libreria/nombreproducto.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">NOMBRE PRODUCTO</a></li>
-                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:1341/../libreria/crearcodigodelproducto.aspx', 'popup', 'left=390, top=200, width=335, height=400, resizable=1')">CREAR PRODUCTO</a></li>
-                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:1341/../libreria/crearproveedor.aspx', 'popup', 'left=390, top=200, width=335, height=341, resizable=1')">CREAR PROVEEDOR</a></li>
+                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:23982/../libreria/nombreproducto.aspx', 'popup', 'left=390, top=200, width=350, height=400, resizable=1')">NOMBRE PRODUCTO</a></li>
+                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:23982/../libreria/crearcodigodelproducto.aspx', 'popup', 'left=390, top=200, width=335, height=400, resizable=1')">CREAR PRODUCTO</a></li>
+                <li><a href="javascript:void(0);" onclick="window.open('http://localhost:23982/../libreria/crearproveedor.aspx', 'popup', 'left=390, top=200, width=335, height=341, resizable=1')">CREAR PROVEEDOR</a></li>
                 
                  </ul>
                     
