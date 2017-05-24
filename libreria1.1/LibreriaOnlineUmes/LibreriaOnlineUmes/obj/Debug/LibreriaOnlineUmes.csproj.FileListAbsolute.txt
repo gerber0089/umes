@@ -152,6 +152,7 @@ D:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\L
 D:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.csprojResolveAssemblyReference.cache
 D:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.dll
 D:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.pdb
+<<<<<<< HEAD
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\LibreriaOnlineUmes.dll
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\LibreriaOnlineUmes.pdb
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\bin\CapaDatos.dll
@@ -163,3 +164,5 @@ C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.csprojResolveAssemblyReference.cache
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.dll
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\LibreriaOnlineUmes\obj\Debug\LibreriaOnlineUmes.pdb
+=======
+>>>>>>> parent of 0d4a3ce... Version 1.6

@@ -115,6 +115,7 @@ F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\C
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
 F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+<<<<<<< HEAD
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
@@ -124,3 +125,5 @@ C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Deb
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+=======
+>>>>>>> parent of 0d4a3ce... Version 1.6
