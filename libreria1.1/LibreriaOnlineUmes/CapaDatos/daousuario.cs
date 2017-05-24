@@ -5,15 +5,10 @@ using System.Text;
 using CapaEntidades;
 using System.Data.SqlClient;
 using System.Data;
-<<<<<<< HEAD
 using CapaDatos;
 
 
 namespace CapaNegocio
-=======
-
-namespace CapaDatos
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
 {
     public class daousuario
     {
@@ -41,11 +36,8 @@ namespace CapaDatos
                 obj.Nombre = dr["Nombre"].ToString();
                 obj.Password = dr["Password"].ToString();
                 obj.Usuario = dr["Password"].ToString();
-<<<<<<< HEAD
                 obj.estado = Convert.ToInt32(dr["estado"].ToString());
                 obj.Rol = Convert.ToInt32(dr["Rol"].ToString());
-=======
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
 
 
 
@@ -67,9 +59,5 @@ namespace CapaDatos
             return obj;
         }
     }
-<<<<<<< HEAD
 
 }
-=======
-}
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958

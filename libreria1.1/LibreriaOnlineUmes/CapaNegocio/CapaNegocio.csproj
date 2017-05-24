@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="negactivarusuario.cs" />
     <Compile Include="negcodigodelproducto.cs" />
     <Compile Include="negcrearlote.cs" />
@@ -52,10 +51,6 @@
     <Compile Include="negrol.cs" />
     <Compile Include="negusuario.cs" />
     <Compile Include="negverificarcorreo.cs" />
-=======
-    <Compile Include="negregistrousuario.cs" />
-    <Compile Include="negusuario.cs" />
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

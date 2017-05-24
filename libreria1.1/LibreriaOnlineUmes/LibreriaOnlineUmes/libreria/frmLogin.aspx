@@ -4,11 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<<<<<<< HEAD
     <title>LIBRERIA UMES</title>
-=======
-    <title>KARDEX</title>
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
     <meta charset="utf-8">
     <link type="text/css" href="../css/styleLogin.css" rel="stylesheet" />
 
@@ -63,7 +59,6 @@
                                 
                                     </td> 
                                
-<<<<<<< HEAD
                              </tr>    
                              
                              <tr>
@@ -72,9 +67,6 @@
                                         &nbsp;</td> 
                                
                              </tr>                            
-=======
-                             </tr>                
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
                             <tr>
                                 <td colspan="2" align="center" class="style2"><asp:Label ID="lblerror" runat="server" Text="" ForeColor="Red"  Visible="false"></asp:Label></td>
                             </tr>

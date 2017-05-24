@@ -13,12 +13,9 @@ namespace LibreriaOnlineUmes.libreria
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
            
             
 
-=======
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
 
         }
 
@@ -30,7 +27,6 @@ namespace LibreriaOnlineUmes.libreria
 
                 if (obj != null)
                 {
-<<<<<<< HEAD
                         if (obj.estado == 0)
                         {
                             lblerror.Text = "Usuario No Activo";
@@ -86,12 +82,6 @@ namespace LibreriaOnlineUmes.libreria
                         }       
             
 
-=======
-
-                    Session["usuario"] = obj;
-                    Response.Redirect("producto.aspx");
-                   
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
 
                 }
                 else

@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
-<<<<<<< HEAD
     <Compile Include="daocrearproveedor.cs" />
     <Compile Include="daoactivacionusuario.cs" />
     <Compile Include="daocodigodelproducto.cs" />
@@ -53,10 +52,6 @@
     <Compile Include="daorol.cs" />
     <Compile Include="daousuario.cs" />
     <Compile Include="daoverificarcorreo.cs" />
-=======
-    <Compile Include="daoregistrousuario.cs" />
-    <Compile Include="daousuario.cs" />
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

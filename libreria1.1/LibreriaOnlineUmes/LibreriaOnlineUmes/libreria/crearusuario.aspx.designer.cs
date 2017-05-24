@@ -49,7 +49,6 @@ namespace LibreriaOnlineUmes.libreria {
         protected global::System.Web.UI.WebControls.TextBox txtpass;
         
         /// <summary>
-<<<<<<< HEAD
         /// txtestado control.
         /// </summary>
         /// <remarks>
@@ -68,8 +67,6 @@ namespace LibreriaOnlineUmes.libreria {
         protected global::System.Web.UI.WebControls.TextBox txtrol;
         
         /// <summary>
-=======
->>>>>>> be2292678815b0c1a1366618db0a74549df8c958
         /// lblerror control.
         /// </summary>
         /// <remarks>
