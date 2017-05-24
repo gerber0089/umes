@@ -99,3 +99,10 @@ C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
 =======
 >>>>>>> parent of 0d4a3ce... Version 1.6
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb

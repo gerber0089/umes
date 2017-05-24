@@ -54,3 +54,8 @@ C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\D
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
 =======
 >>>>>>> parent of 0d4a3ce... Version 1.6
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaEntidades\obj\Debug\CapaEntidades.pdb
