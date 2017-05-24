@@ -17,15 +17,22 @@
           }
     </style>
 </head>
+<script runat="server">
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        System.Globalization.CultureInfo cultureInfo = new System.Globalization.CultureInfo("es-PA");
+        cultureInfo.DateTimeFormat.ShortDatePattern = "dd/MM/yyyy";
+        System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
+        System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
+    }
+</script>
 <body>
     <form id="Form1" runat="server">
     <div class="page">
         <div class="header">
-        
-            <div class="title">
-                <h1>
-                    LIBRERIA ONLINE UMES
-                </h1>
+           <img src="/imagenes/logo-meso.png" style="height: 121px; width: 463px" /><div class="title">
+              
             </div>
             <div class="loginDisplay">
                 <a  href="frmLogin.aspx"><h4>Iniciar Session</h4></a>

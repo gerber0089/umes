@@ -5,8 +5,10 @@ using System.Text;
 using CapaEntidades;
 using System.Data.SqlClient;
 using System.Data;
+using CapaDatos;
 
-namespace CapaDatos
+
+namespace CapaNegocio
 {
     public class daousuario
     {
@@ -34,6 +36,8 @@ namespace CapaDatos
                 obj.Nombre = dr["Nombre"].ToString();
                 obj.Password = dr["Password"].ToString();
                 obj.Usuario = dr["Password"].ToString();
+                obj.estado = Convert.ToInt32(dr["estado"].ToString());
+                obj.Rol = Convert.ToInt32(dr["Rol"].ToString());
 
 
 
@@ -55,4 +59,5 @@ namespace CapaDatos
             return obj;
         }
     }
+
 }

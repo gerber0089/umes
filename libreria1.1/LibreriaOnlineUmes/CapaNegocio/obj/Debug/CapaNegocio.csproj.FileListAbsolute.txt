@@ -25,3 +25,114 @@ E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\C
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+E:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\apineda\Downloads\LIBRERIA\libreria1.2\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HP\Desktop\Nueva carpeta\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.3\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+<<<<<<< HEAD
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb
+=======
+>>>>>>> parent of 0d4a3ce... Version 1.6
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaNegocio\obj\Debug\CapaNegocio.pdb

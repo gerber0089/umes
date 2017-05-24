@@ -27,6 +27,8 @@ namespace CapaDatos
                 cmd.Parameters.AddWithValue("@Apellido", obj.Apellido);
                 cmd.Parameters.AddWithValue("@Usuario", obj.Usuario);
                 cmd.Parameters.AddWithValue("@Password", obj.Password);
+                cmd.Parameters.AddWithValue("@estado", obj.estado);
+                cmd.Parameters.AddWithValue("@Rol", obj.Rol);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cnx.Open();
                 cmd.ExecuteNonQuery();

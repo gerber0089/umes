@@ -2,3 +2,23 @@ G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
 G:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\apineda\Desktop\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.4\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\15-05-17\proyectomodificadolibreria\LIBRERIA\libreria1.5\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\David\Desktop\umes\libreria1.1\LibreriaOnlineUmes\ClassLibrary\obj\Debug\ClassLibrary.pdb
