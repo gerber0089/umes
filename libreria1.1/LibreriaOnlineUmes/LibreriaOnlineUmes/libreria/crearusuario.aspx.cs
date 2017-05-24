@@ -20,6 +20,7 @@ namespace LibreriaOnlineUmes.libreria
         {
               if (txtusuario.Text != "" && txtapellido.Text != "" && txtcorreo.Text != "" && txtpass.Text != "")
             {
+<<<<<<< HEAD
               
                 /*entverificarcorreo  obj1 = new entverificarcorreo();
 
@@ -56,6 +57,26 @@ namespace LibreriaOnlineUmes.libreria
 
                     /*}*/
                
+=======
+                entregistrousuario obj = new entregistrousuario();
+                obj.Nombre = txtusuario.Text;
+                obj.Apellido = txtapellido.Text;
+                obj.Usuario = txtcorreo.Text;
+                obj.Password = txtpass.Text;
+
+                if (negregistrousuario.ingresousuario(obj) != 0)
+                {
+                    Response.Redirect("frmLogin.aspx");
+
+                }
+                else
+                {
+                    lblerror.Text = "No se pudo Ingresar Usuario";
+                    lblerror.Visible = true;
+
+
+                }
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
             }
             else
             {

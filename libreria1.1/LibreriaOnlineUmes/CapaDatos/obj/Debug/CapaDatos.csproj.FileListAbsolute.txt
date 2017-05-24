@@ -19,6 +19,7 @@ E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug\Cap
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
 E:\PROYECTO LIBRERIA UMES\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+<<<<<<< HEAD
 G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.dll
 G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaDatos.pdb
 G:\PROYECTO LIBRERIA UMES\libreria1.2\LibreriaOnlineUmes\CapaDatos\bin\Debug\CapaEntidades.dll
@@ -96,3 +97,5 @@ C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\bin\Debug
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\obregon\Desktop\umes\libreria1.1\LibreriaOnlineUmes\CapaDatos\obj\Debug\CapaDatos.pdb
+=======
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958

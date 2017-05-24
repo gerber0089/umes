@@ -49,7 +49,10 @@
                             <tr>
                                     <td colspan="2" align="left" class="style1">PASSWORD:</td>
                             </tr>
+<<<<<<< HEAD
                             </br>
+=======
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
                             <tr>
                                     <td class="style2">      
                                
@@ -57,6 +60,7 @@
                                 
                                     </td> 
                                
+<<<<<<< HEAD
                              </tr>  
                              <tr>
                                     <td class="style2">      
@@ -75,6 +79,9 @@
                                
                              </tr>  
                                            
+=======
+                             </tr>                
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
                             <tr>
                                 <td colspan="2" align="center" class="style2"><asp:Label ID="lblerror" runat="server" Text="" ForeColor="Red"  Visible="false"></asp:Label></td>
                             </tr>

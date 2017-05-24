@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="entactivacionusuario.cs" />
     <Compile Include="entcodigodelproducto.cs" />
     <Compile Include="entcrearlote.cs" />
@@ -51,6 +52,10 @@
     <Compile Include="entrol.cs" />
     <Compile Include="entusuario.cs" />
     <Compile Include="entverificarcorreo.cs" />
+=======
+    <Compile Include="entregistrousuario.cs" />
+    <Compile Include="entusuario.cs" />
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

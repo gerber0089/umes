@@ -17,6 +17,7 @@
           }
     </style>
 </head>
+<<<<<<< HEAD
 <script runat="server">
 
     protected void Page_Load(object sender, EventArgs e)
@@ -27,12 +28,22 @@
         System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
     }
 </script>
+=======
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
 <body>
     <form id="Form1" runat="server">
     <div class="page">
         <div class="header">
+<<<<<<< HEAD
            <img src="/imagenes/logo-meso.png" style="height: 121px; width: 463px" /><div class="title">
               
+=======
+        
+            <div class="title">
+                <h1>
+                    LIBRERIA ONLINE UMES
+                </h1>
+>>>>>>> be2292678815b0c1a1366618db0a74549df8c958
             </div>
             <div class="loginDisplay">
                 <a  href="frmLogin.aspx"><h4>Iniciar Session</h4></a>
